@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-kdu-libs",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "eslint plugin for Kdu projects",
   "main": "index.js",
   "repository": {
@@ -14,10 +14,10 @@
   },
   "homepage": "https://github.com/khanhduy1407/eslint-plugin-kdu-libs",
   "peerDependencies": {
-    "eslint": "^4.7.0"
+    "eslint": "^5.11.1 || ^6.0.0"
   },
   "dependencies": {
-    "babel-eslint": "^8.2.3",
-    "eslint-plugin-kdu": "^4.5.0"
+    "babel-eslint": "^10.0.1",
+    "eslint-plugin-kdu": "^5.1.0"
   }
 }
